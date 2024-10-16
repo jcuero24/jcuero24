@@ -1,8 +1,8 @@
- @jcuero24
+## @jcuero24
  
 👋 Hello! I’m Juan David Cuero Gamboa, I’m 18 years old, and I am currently an English teacher and electronic technician. I study Software Engineering and participate in a software development training program. I am passionate about the world of technology and web development.
 
-Technologies and Skills
+## Technologies and Skills
 I work with the following technologies:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -11,14 +11,14 @@ I work with the following technologies:
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 - ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=flat-square)
 
-About Me
+## About Me
 🌱 Always looking to learn new technologies and improve my skills.
 🎯 Focused on growing as a developer and achieving personal and professional goals.
-Contact
+
+## Contact
 Email: cueroj505@gmail.com
 
 If you want to get in touch with me or collaborate on a project, feel free to write to me.
-
 Thank you for reading!
 
 <!---
