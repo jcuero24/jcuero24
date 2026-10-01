@@ -1,6 +1,6 @@
 ## @jcuero24
  
-👋 Hello! I’m Juan David Cuero Gamboa, I’m 19 years old, and I am currently an English teacher and electronic technician. I study Software Engineering and participate in a software development training program. I am passionate about the world of technology and web development.
+👋 Hello! I’m Juan David Cuero Gamboa, I’m 20 years old, and I am currently an English teacher and electronic technician. I study Software Engineering and participate in a software development training program. I am passionate about the world of technology and web development.
 
 ## Technologies and Skills
 I work with the following technologies:
