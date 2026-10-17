@@ -1,6 +1,8 @@
 ## @jcuero24
  
-👋 Hello! I’m Juan David Cuero, and I am currently an English teacher and electronic technician. I study Software Engineering and participate in a software development training program. I am passionate about the world of technology and web development.
+👋 Hello! I’m Juan Cuero, Full-Stack Developer | Angular, TypeScript, Node.js & Firebase | Applied AI projects
+
+Full-stack developer with hands-on experience building and deploying an institutional web platform with Angular and Firebase. Implemented reactive forms, service integrations, automated contact capture, and responsive layouts. Currently pursuing a Software Engineering degree and holding an Aptis B2 English certificate. Expanding my skills through generative AI and agent projects focused on information retrieval and human-approved automation.
 
 ## Technologies and Skills
 I work with the following technologies:
@@ -16,7 +18,7 @@ I work with the following technologies:
 🎯 Focused on growing as a developer and achieving personal and professional goals.
 
 ## Contact
-Email: cueroj505@gmail.com
+Email: juancuero248@gmail.com
 
 If you want to get in touch with me or collaborate on a project, feel free to write to me.
 Thank you for reading!
